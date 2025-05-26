@@ -1,7 +1,5 @@
-# 🌐 Md Ariful Islam – Data Analytics Portfolio
-
 Welcome to my personal data analytics portfolio website!  
-This site showcases a curated collection of projects demonstrating my skills in data science, statistical modeling, and dashboard development using tools like **R, Python, Power BI, and R Shiny**.
+This site showcases a curated collection of projects demonstrating my skills in data science, statistical modeling, and dashboard development using tools like **R, Python, and R Shiny**.
 
 ---
 
